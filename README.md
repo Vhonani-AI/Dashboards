@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of Business Intelligence tools to transform raw data into actionable business insights. Two reporting platforms were used—Google Looker Studio and Power BI—to showcase different approaches to data visualization, analysis, and stakeholder reporting.
+This project demonstrates the use of Business Intelligence tools to transform raw data into actionable business insights. Two reporting platforms were used: Google Looker Studio and Power BI, to showcase different approaches to data visualization, analysis, and stakeholder reporting.
 
 ---
 
